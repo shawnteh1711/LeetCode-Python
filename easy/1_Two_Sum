@@ -20,3 +20,4 @@ class Solution:
                 return [i,nums.index(temp)]
             
             r.append(nums[i])
+
