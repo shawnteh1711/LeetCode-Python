@@ -59,3 +59,6 @@ class Solution:
             if j in tmp_nums:
 
                 return [nums.index(i), tmp_nums_start_index + tmp_nums.index(j)]
+            
+           
+        
